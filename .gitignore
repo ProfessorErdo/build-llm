@@ -9,3 +9,5 @@ src2/gpt2
 src2/sms_spam_collection
 src2/sms_spam_collection.zip
 src2/*.csv
+notebooks/*.pth
+models
