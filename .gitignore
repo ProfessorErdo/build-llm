@@ -11,3 +11,4 @@ src2/sms_spam_collection.zip
 src2/*.csv
 notebooks/*.pth
 models
+src2/*.pth
